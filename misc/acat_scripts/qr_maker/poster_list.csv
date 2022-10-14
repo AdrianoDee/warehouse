@@ -1,0 +1,129 @@
+Link;Number;Name;Date;Time
+https://indico.cern.ch/event/1106990/contributions/4991253/;12;A comparison of HEPSPEC benchmark performance on ATLAS Grid-Sites versus ideal conditions;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991260/;32;A FPGA Implementation of the Hough Transform tracking algorithm for the Phase-II upgrade of ATLAS;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991255/;17;AI Data Quality Monitoring with Hydra;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991228/;9;Applications of supercomputer Tianhe-II in BESIII;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996225/;18;AtlFast3: Fast Simulation in ATLAS for Run 3 and beyond;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996209/;4;CMS Tracker Alignment: Legacy results from LHC Run 2 and first results from Run 3;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/5007271/;25;Data Calibration and Processing at Belle II;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991257/;19;Design and  implementation of computational storage system based on EOS for HEP data processing;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996237/;57;Evaluating Generative Adversarial Networks for particle hit generation in a cylindrical drift chamber using Fréchet Inception Distance;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996231/;34;Fast track seed selection for track following in the Inner Detector Trigger track reconstruction;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996226/;21;Flexible Event Data Model for track reconstruction in ACTS and integration with ATLAS xAOD;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996223/;14;Improved Selective Background Monte Carlo Simulation at Belle II with Graph Attention Networks and Weighted Events;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991225/;2;Machine Learning for Real-Time Processing of ATLAS Liquid Argon Calorimeter Signals with FPGAs;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996230/;31;Machine Learning Techniques for selecting Forward Electrons ($|\eta\lt3.2|)$ with the ATLAS High Level Trigger;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4996232/;35;Parametrized simulation of the micro-RWELL response with PARSIFAL software;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991258/;30;Transparent expansion of a WLCG compute site using HPC resources;24/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998016/;67;A Deep Learning based algorithm for PID study with cluster counting;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991270/;49;A distributed infrastructure for interactive analysis: the experience at INFN;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4996235/;42;A graph neural network for B decays reconstruction at Belle II;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991283/;74;Commissioning CMS online reconstruction with GPUs;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991263/;43;Custom event sample augmentations for ATLAS analysis data;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991266/;46;Enabling continuous speedup of CMS Event Reconstruction through continuous benchmarking;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991272/;50;Enhanced Data Analytics capabilities in the ELK Stack - a review of the premium features and their benefit to a Scientific Compute Facility;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991277/;64;Evolution of the CMS Submission Infrastructure to support heterogeneous resources in the LHC Run 3;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4997122/;59;Faster simulated track reconstruction in the ATLAS Fast Chain;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/5007272/;38;Monitoring CMS experiment data and infrastructure for next generation of LHC run;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998026/;75;Progress towards an improved particle flow algorithm at CMS with machine learning;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991274/;53;Recent Developments in the FullSimLight Simulation Tool from ATLAS;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991268/;47;Secrets Management for CMSWEB;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991281/;65;Stability of the CMS Submission Infrastructure for the LHC Run 3;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998015/;63;The adaptation of a deep learning model to locating primary vertices in the CMS and ATLAS experiments;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991261/;39;Transparent extension of INFN-T1 with heterogeneous computing architectures;24/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998059/;117;Analysis of spectroscopy data with Machine Learning;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998071/;122;Application of Machine Learning to Particle Identification at the BESIII experiment;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991321/;108;Application of Unity for detector modeling in BESIII;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998060/;119;Automatic differentiation of binned likelihoods with RooFit and Clad;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991314/;105;CERNLIB status;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998091/;140;CMS tracking performance in Run 2 and early Run 3 data using the tag-and-probe technique;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991329/;134;Continuous Integration for the FairRoot Software Stack;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991322/;128;Data Management interfaces for CMS experiment: building an improved user experience;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998072/;123;Data Quality Monitoring for the JUNO Experiment;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991328/;131;Exploring the use of accelerators for lossless data compression in CMS;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998089/;139;General shower simulation MetaHEP in key4hep framework;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991320/;107;HDTFS：Cost-effective Hadoop Distributed & Tiered File System for High Energy Physics;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998058/;114;Improving robustness of jet tagging algorithms with adversarial training;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998057/;113;ML-based discrimination of same sign WW VBS processes at CMS with hadronic tau in final state;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998070/;121;Preliminary Results of Vectorization of Density Functional Theory calculations in Geant4/V for amino acids;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998036/;106;Variational AutoEncoders for Anomaly Detection in VBS events within an EFT framework;25/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991288/;88;Awkward Arrays to RDataFrame and back;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998031/;85;Comparing and improving hybrid deep learning algorithms for identifying and locating primary vertices;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991312/;102;Distributed data processing pipelines in ALFA;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998027/;79;Event Display Development for Mu2e using Eve-7;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991305/;91;Experience in SYCL/oneAPI for event reconstruction at the CMS experiment;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991308/;95;Implementation of generic SoA data structure in the CMS software;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998033/;93;JETFLOW: Generating jets with Normalizing Flows using the jet mass as condition and constraint;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998186/;80;Machine learning techniques for data quality monitoring at the CMS detector;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998032/;87;Machine learning-based vertex reconstruction for reactor neutrinos in JUNO;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998185/;84;Particle Flow Reconstruction on Heterogeneous Architecture for CMS;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991310/;100;Supporting multiple hardware architectures at CMS: the integration and validation of Power9;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991313/;103;The CMS Roadmap towards HL-LHC Software and Computing;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998034/;104;The Level-1 Global Trigger for Phase-2: Algorithms, configuration and integration in the CMS offline framework;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991286/;81;Trigger Rate Monitoring Tools at CMS;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991311/;101;Updates on the Low-Level Abstraction of Memory Access;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991307/;94;XRootD caching for Belle II;25/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991346/;186;Advancing Opportunistic Resource Management via Simulation;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998095/;147;AI/ML for PID in the Charged Pion Polarizability Experiment at Jefferson Lab};26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998102/;156;Auto-tuning capabilities of the ACTS track reconstruction suite;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998121/;183;Bayesian method for waveform analysis with GPU acceleration;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991349/;192;Development of a lightweight database interface for accessing JUNO conditions and parameters data;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998128/;187;Equivariant Graph Neural Networks for Charged Particle Tracking;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991347/;190;Evaluating Portable Parallelization Strategies for Heterogeneous Architectures;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991344/;182;Fast Named Data Networking Based Open Storage System Plugin For XRootD;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991351/;196;Hyperparameter Optimization as a Service on INFN Cloud;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998103/;157;k4Clue: Having CLUE at future colliders experiments;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991348/;191;Lamarr: LHCb ultra-fast simulation based on machine learning models;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991345/;185;Optimized GPU usage in High Energy Physics applications;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998199/;155;Primary Vertex Reconstruction for Heterogeneous Architecture at CMS;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998129/;189;RDataFrame: a flexible and scalable analysis experience;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998122/;184;Reconstructing Particle Decay Trees with Quantum Graph Neural Networks for High Energy Physics;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991342/;180;ROCm on Gentoo: efficient and portable GPGPU software management;26/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998098/;150;A web based graphical user interface for X-ray computed tomography imaging;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991333/;168;Accelerating ROOT compression with Intel ISA-L library;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998109/;165;BESIII track reconstruction algorithm based on machine learning;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998108/;163;CaloPointFlow - Generating Calorimeter Showers as Point Clouds;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991339/;172;Deploying a cache content delivery network for CMS experiment in Spain;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991341/;178;Differentiating through Awkward Arrays using JAX and a new CUDA backend for Awkward Arrays;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998112/;170;Hyperparameter optimization, multi-node distributed training and benchmarking of AI-based HEP workloads using HPC;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991350/;194;Integration of machine learning-trained models into JUNO's offline software;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998100/;154;Mock Data Challenge for the JUNO experiment;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991340/;176;Of Frames and schema evolution - The newest features of podio;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998119/;174;Optimizing electron and photon reconstruction using deep learning: application to the CMS electromagnetic calorimeter;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991330/;149;Pyrate: a novel system for data transformations, reconstruction and analysis for the SABRE experiment;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998130/;193;Real-time alignment procedure at the LHCb experiment for Run3;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998120/;175;Speeding up the CMS track reconstruction with a parallelized and vectorized Kalman-filter-based algorithm during the LHC Run 3;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991332/;159;The Key4hep Turnkey Software Stack: Beyond Future Higgs Factories;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998131/;199;Track reconstruction using quantum algorithms at LUXE;26/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998132/;200;A calibrated particle identification for Belle II;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998133/;201;Accelerating the DBSCAN clustering algorithm for low-latency primary vertex reconstruction;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998140/;213;Binning high-dimensional classifier output for HEP analyses through a clustering algorithm;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991353/;236;Ceph S3 Object Storage for CMS data;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991358/;246;Compiling Awkward Lorentz Vectors with Numba;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/5011939/;252;Data transfer to remote GPUs over high performance networks;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998137/;210;Equivariant Neural Networks for Particle Physics: PELICAN;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991354/;238;Fast analysis facility for HEP experiments;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998134/;202;High performance analysis with RDataFrame and the python ecosystem: Scaling and Interoperability;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998167/;240;Law: End-to-End Analysis Automation over Distributed Resources;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998172/;245;Noise removal of the events at main drift chamber of BESIII with deep learning techniques;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991359/;248;Performance portability with alpaka;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/5007274/;209;Quality assurance of the LHCb simulation;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998164/;234;ROOT Machine Learning Ecosystem for Data Analysis;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/5011940/;253;SCD: an open, realistic calorimeter for ML studies in HEP;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4991357/;244;Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml;27/10/2022;11:00
+https://indico.cern.ch/event/1106990/contributions/4998154/;227;A Checker-Board Sky: Automating Telescope Scheduling with Reinforcement Learning;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998147/;220;Binned histogram fitting for Bayesian inference via Automatic Differentiation in JuliaLang;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998151/;223;Cluster counting algorithms for particle identification at future colliders;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998135/;204;Control of cryogenic dark matter detectors through deep reinforcement learning;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998156/;228;Deep learning based event reconstruction for the HEPD-02 detector on board the China Seismo-Electromagnetic Satellite;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998166/;237;Federated Learning Strategies of Generative Adversarial Networks for High Energy Physics Calorimeter Simulation;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4993526/;221;High Performance Computing Workflow for Liquid Argon Time Projection Chamber Neutrino Experiments;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998153/;226;Implementation of the Cluster Counting and Timing realtime algorithm on FPGA to improve the impact parameter estimates of the Drift Chamber and particle identification.;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998141/;215;New RooFit Developments on Performance Optimization;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998152/;225;Performances studies for a real time HEP data analysis;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998165/;235;Quantum anomaly detection in the latent spaces of high energy physics events;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4991352/;218;RNTuple: Towards First-Class Support for HPC data centers;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998139/;212;Scaling MadMiner with a deployment on REANA;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998145/;217;The Linear Template Fit;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998162/;232;The TICL reconstruction at the CMS Phase-2 High Granularity Calorimeter Endcap;27/10/2022;11:15
+https://indico.cern.ch/event/1106990/contributions/4998146/;219;Uncertainty estimation in deep learning based-classifiers of High Energy Physics events using Monte Carlo Dropout;27/10/2022;11:15
