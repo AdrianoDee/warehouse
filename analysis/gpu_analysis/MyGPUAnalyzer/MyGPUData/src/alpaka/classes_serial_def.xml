@@ -1,0 +1,34 @@
+<lcgdict>
+<class name="PortableHostCollection<CandidateWithMass>"/>
+<read
+  sourceClass="PortableHostCollection<CandidateWithMass>"
+  targetClass="PortableHostCollection<CandidateWithMass>"
+  version="[1-]"
+  source="CandidateWithMass layout_;"
+  target="buffer_"
+  embed="false">
+<![CDATA[
+  PortableHostCollection<CandidateWithMass>::ROOTReadStreamer(newObj, onfile.layout_);
+]]>
+</read>
+
+<class name="CandidateWithMassHost"/>
+<class name="edm::Wrapper<CandidateWithMassHost>" splitLevel="0"/>
+
+<class name="PortableHostCollection<TwoDaughterCand>"/>
+<read
+  sourceClass="PortableHostCollection<TwoDaughterCand>"
+  targetClass="PortableHostCollection<TwoDaughterCand>"
+  version="[1-]"
+  source="TwoDaughterCand layout_;"
+  target="buffer_"
+  embed="false">
+<![CDATA[
+  PortableHostCollection<TwoDaughterCand>::ROOTReadStreamer(newObj, onfile.layout_);
+]]>
+</read>
+
+<class name="TwoDaughterCandHost"/>
+<class name="edm::Wrapper<TwoDaughterCandHost>" splitLevel="0"/>
+
+</lcgdict>
