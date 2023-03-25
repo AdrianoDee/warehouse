@@ -1,9 +1,9 @@
 import os
 
 def html_tree(path,title):
-
+   
     for path,dirs,files in os.walk(path.split("/")[0]):
-
+      
         if os.path.isdir(path):
             with open(path+"/index.html", 'w') as f:
                 f.write("<html>\n <head>\n")
@@ -25,5 +25,14 @@ def html_tree(path,title):
                 f.write(" </body>\n")
                 f.write("</html>\n")
 
-if __name__ =="__main__":
-	html_tree("","List")	
+if __name__ == "__main__":
+  #for root, dirs, files in os.walk("."):
+  #  path = root.split(os.sep)
+    #print(path)
+    #print(root)
+    #print((len(path) - 1) * '---', os.path.basename(root))
+  #  for dir in dirs:
+  #  	print(root+"/"+dir)
+    #    print(len(path) * '---', file)
+ 
+  html_tree(".","List")	
